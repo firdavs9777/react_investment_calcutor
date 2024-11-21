@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #9694FF, #FFB3BA, #FFDFBA, #BAFFC9);
+  background-size: 400% 400%; /* Creates a smooth transition effect */
+  animation: gradientAnimation 5s ease-in infinite; /* Adds animation for dynamic effect */
+}
+
+/* Keyframes for background animation */
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

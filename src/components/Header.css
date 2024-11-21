@@ -1,0 +1,16 @@
+.heading {
+  text-align: center;
+  justify-content: center;
+}
+.logo {
+  height: 300px;
+  width:300px;
+
+  margin:10px;
+  border-radius: 20px;
+}
+.header {
+  text-align: center;
+  font-size: 28px;
+  padding-bottom: 20px;
+}
