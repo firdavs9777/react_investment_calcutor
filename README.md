@@ -20,5 +20,5 @@ A simple and intuitive **Investment Calculator** built with **React** to help us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react_investment_calculator.git
+   git clone https://github.com/firdavs9777/react_investment_calcutor.git
    cd react_investment_calculator
